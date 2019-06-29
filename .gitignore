@@ -1,0 +1,6 @@
+Debug
+Release
+*.sdf
+*.sln
+*.suo
+*vcx*

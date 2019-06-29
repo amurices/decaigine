@@ -1,0 +1,18 @@
+Andre Muricy Santos - 15057987-6
+
+ACKNOWLEDGEMENT:
+A lot of the rendering code; essentially most of the spriteBatch and GLSLprogram implementation, was based on
+Ben Arnold's tutorial of how to mimic Microsoft's XNA's very SpriteBatch rendering class and make it speak to 
+OpenGL. His tutorial included a rudimentary resource management class, which was adapted to effectively load and unload
+game assets (audio and textures in this case).
+
+Setup:
+Downloading on a separate machine, a problem might come up; the solution does not open the ORGANIZE project at first.
+To amend this:
+1. Right-click the ORGANIZE(load failed) simple and select Reload Project
+2. Right click the ORGANIZE now properly loaded project and select "Set as startup project"
+And there, that should work.
+
+Controls:
+Press Space to jump the sword, left and right to move it, WASD to move the camera and E/Q to zoom in and out.
+Make the sword jump to its children to win!
